@@ -1,5 +1,7 @@
-<h1 align="center">Go Beyond !! Plus Ultra🔥 Jov</h1>
-<h3 align="center">I have no talent; I'm just passionately curious</h3>
+<h1 align="center">👽 We develop and conquer</h1>
+<h3 align="center">
+🔥 Go Beyond !! Plus Ultra !!!
+🌖 I have no talent. I'm just passionately curious.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdaclizon23&label=Profile%20views&color=0e75b6&style=flat" alt="jdaclizon23" /> </p>
 
